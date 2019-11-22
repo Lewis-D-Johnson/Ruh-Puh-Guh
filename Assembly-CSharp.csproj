@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\SmoothFollow.cs" />
+    <Compile Include="Assets\WorldGenerator.cs" />
     <None Include="Assets\QS\Abstract backgrounds\Documentation\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Users/UnityProjects/Out of Work/Ruh Puh Guh/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
